@@ -85,7 +85,3 @@ python visualizer_player.py
 
 Free to use.
 
-```
-
-Would you like a version with badges, screenshots section space, or installation video link section?
-```
