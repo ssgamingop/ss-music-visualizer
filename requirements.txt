@@ -1,0 +1,5 @@
+pygame
+numpy
+pyaudio
+scipy
+yt-dlp

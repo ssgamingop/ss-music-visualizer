@@ -1,0 +1,15 @@
+Ignore Virtual Environments
+
+venv/myvenv/env/.env
+
+# Ignore Compiled Python Files
+
+pycache/*.pyc
+
+# Ignore Downloaded Songs ()
+
+songs/
+
+# OS generated files
+
+.DS_Store Thumbs.db
